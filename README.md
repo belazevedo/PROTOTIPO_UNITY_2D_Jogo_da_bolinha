@@ -3,7 +3,7 @@
 
 Protótipo de jogo 2D desenvolvido com Unity durante o curso [**"Desenvolvendo Jogos com Unity 2D"**](https://www.youtube.com/watch?v=59Z-E2yt2oA&list=PLzjwaizNOg6TltKzv_WWX3EJosl5nA46m&index=11) no YouTube.
 
-Este projeto teve como objetivo exercitar conceitos básicos de desenvolvimento de jogos, programação em C#, movimentação e física 2D.
+Este projeto teve como objetivo aprender conceitos básicos de Unity, desenvolvimento de jogos, programação em C#, movimentação e física 2D.
 
 ---
 
@@ -18,7 +18,6 @@ Este projeto teve como objetivo exercitar conceitos básicos de desenvolvimento 
 -  Organizar hierarquia de objetos e estrutura de pastas no Unity
 
 ---
-
 
 # Preview 🎥
 
