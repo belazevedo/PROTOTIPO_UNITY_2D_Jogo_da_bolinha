@@ -1,0 +1,3 @@
+*.cs linguist-language=C#
+*.csproj linguist-vendored
+*.sln linguist-vendored
