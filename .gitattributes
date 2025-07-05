@@ -1,4 +1,4 @@
-*.cs linguist-language=C#
+*.cs linguist-language="C#"
 *.csproj linguist-vendored
 *.sln linguist-vendored
 *.unity linguist-vendored
