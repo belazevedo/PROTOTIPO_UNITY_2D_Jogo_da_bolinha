@@ -20,7 +20,8 @@ Este projeto teve como objetivo exercitar conceitos básicos de desenvolvimento 
 ---
 
 
-# Preview 📷
+# Preview 🎥
+
 
 ![Jogo da bolinha gameplay](preview.gif)
 
