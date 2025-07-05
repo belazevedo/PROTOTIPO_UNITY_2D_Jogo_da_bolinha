@@ -1,13 +1,13 @@
 *.cs linguist-language="C#"
-*.csproj linguist-vendored
-*.sln linguist-vendored
-*.unity linguist-vendored
-*.meta linguist-vendored
-Library/** linguist-vendored
-Logs/** linguist-vendored
-Temp/** linguist-vendored
-ProjectSettings/** linguist-vendored
-UserSettings/** linguist-vendored
-.vscode/** linguist-vendored
+
 *.csproj linguist-detectable=false
 *.sln linguist-detectable=false
+*.unity linguist-detectable=false
+*.meta linguist-detectable=false
+
+Library/** linguist-detectable=false
+Logs/** linguist-detectable=false
+Temp/** linguist-detectable=false
+ProjectSettings/** linguist-detectable=false
+UserSettings/** linguist-detectable=false
+.vscode/** linguist-detectable=false
