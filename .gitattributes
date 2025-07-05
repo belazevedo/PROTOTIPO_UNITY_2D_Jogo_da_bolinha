@@ -9,3 +9,5 @@ Temp/** linguist-vendored
 ProjectSettings/** linguist-vendored
 UserSettings/** linguist-vendored
 .vscode/** linguist-vendored
+*.csproj linguist-detectable=false
+*.sln linguist-detectable=false
