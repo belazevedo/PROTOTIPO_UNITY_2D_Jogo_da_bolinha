@@ -7,3 +7,5 @@ Library/** linguist-vendored
 Logs/** linguist-vendored
 Temp/** linguist-vendored
 ProjectSettings/** linguist-vendored
+UserSettings/** linguist-vendored
+.vscode/** linguist-vendored
