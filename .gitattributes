@@ -1,3 +1,9 @@
 *.cs linguist-language=C#
 *.csproj linguist-vendored
 *.sln linguist-vendored
+*.unity linguist-vendored
+*.meta linguist-vendored
+Library/** linguist-vendored
+Logs/** linguist-vendored
+Temp/** linguist-vendored
+ProjectSettings/** linguist-vendored
