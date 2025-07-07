@@ -9,13 +9,13 @@ Este projeto teve como objetivo aprender conceitos básicos de Unity, desenvolvi
 
 ## 📑 O que aprendi nesse projeto:
 
--  Criar um projeto novo 2D no Unity
--  Importar e organizar assets (sprites, sons e cenas)
--  Configurar Rigidbody2D e Colliders para objetos no Unity
--  Programar movimentação da bolinha usando C#
--  Detectar colisões com obstáculos e plataformas
--  Implementar troca de cenas
--  Organizar hierarquia de objetos e estrutura de pastas no Unity
+☞  Criar um projeto novo 2D no Unity   
+☞  Importar e organizar assets (sprites, sons e cenas)   
+☞  Configurar Rigidbody2D e Colliders para objetos no Unity   
+☞  Programar movimentação da bolinha usando C#   
+☞  Detectar colisões com obstáculos e plataformas   
+☞  Implementar troca de cenas   
+☞  Organizar hierarquia de objetos e estrutura de pastas no Unity   
 
 ---
 
